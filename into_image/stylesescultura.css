@@ -1,0 +1,33 @@
+img{
+    max-height: 300px;
+    max-width: 300px;
+
+}
+p{
+    padding-top: 20px;
+}
+body{
+    background-image: url(img/megafondo3.jpg);
+    background-size: cover;
+}
+p{
+
+    padding-top: 80px;
+    font-size: 18px;
+}
+div ul li a:hover{
+    transition: all 1000ms;
+    border-radius: 10px;
+    background-color: rgba(71, 71, 70, 0.322);
+}
+div ul li a{
+    font-size: 17px;
+    font-weight: 400;
+}
+.dropdown-item:hover{
+    transition: all 1000ms;
+    background-color: rgba(71, 71, 70, 0.322);
+}
+div div img {
+    border-radius: 100px;
+}
